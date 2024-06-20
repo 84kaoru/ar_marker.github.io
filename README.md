@@ -7,11 +7,11 @@
 1. [AR.js Marker Training](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)に画像をアップロード
 ※pattern ratio は変更可能だが、マーカーの読み取り制度に影響が出る(デフォルト0.5が妥当)
 
-2. マーカーのimgとmattファイルを保存
+3. マーカーのimgとmattファイルを保存
 
-3. コード内の既存のmattファイルと差し替える
+4. コード内の既存のmattファイルと差し替える
 
-4. index.html内の`XXX.matt`を適切な名前に書き直す
+5. index.html内の`XXX.matt`を適切な名前に書き直す
    
 
 ## 3Dモデルを変更する(元モデルがFBX形式の場合)
