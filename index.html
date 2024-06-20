@@ -10,7 +10,7 @@
 
   <body style="margin : 0px; overflow: hidden;">
 
-  <!-- <script>
+  <script>
     AFRAME.registerComponent('marker-cooler', {
       init: function () {
         const marker = this.el;
@@ -22,7 +22,7 @@
     window.onload = () => {
       audio_cooler = document.getElementById('audio_cooler');
     };
-  </script> -->
+  </script>
 
     <!-- a-frame scene -->
     <a-scene
@@ -33,7 +33,7 @@
 
       <a-assets>
         <a-asset-item id="cooler" src="asset.gltf"></a-asset-item>
-        <!-- <audio id ="audio_cooler" src="sounds/cooler.mp3" preload="auto"></audio> -->
+        <audio id ="audio_cooler" src="test_sound.mp3" preload="auto"></audio>
       </a-assets>
 
       <a-marker marker-cooler type="pattern" url="marker.patt">
