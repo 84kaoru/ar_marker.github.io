@@ -16,9 +16,9 @@
 
 6. Download packageでファイルをダウンロード→arというzipができるので解凍
 
-7. コード内の既存のmattファイルとgLTFファイルを差し替える
+7. コード内の既存のpattファイルとgLTFファイルを差し替える
 
-8. index.html内の`XXX.matt`と`YYY.gltf`適切な名前に書き直す
+8. index.html内の`XXX.patt`と`YYY.gltf`適切な名前に書き直す
 
 
 ## オリジナルマーカーと3Dモデルを使ってパズルを作ろう→[https://84kaoru.github.io/pazzle.github.io/](https://84kaoru.github.io/pazzle.github.io/)
