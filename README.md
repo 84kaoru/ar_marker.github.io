@@ -1,5 +1,6 @@
 # テストページ
 [https://84kaoru.github.io/ar_marker.github.io/](https://84kaoru.github.io/ar_marker.github.io/)
+ファイル内のtest.imgを読み取ってください
 
 # 使い方
 
