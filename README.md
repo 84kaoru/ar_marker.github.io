@@ -30,8 +30,14 @@
 7. index.html内の`XXX.gltf`を適切な名前に書き直す
 
 
-### オリジナルマーカーと3Dモデルを使ってパズルを作ろう→[https://84kaoru.github.io/pazzle.github.io/](https://84kaoru.github.io/pazzle.github.io/)
+## オリジナルマーカーと3Dモデルを使ってパズルを作ろう→[https://84kaoru.github.io/pazzle.github.io/](https://84kaoru.github.io/pazzle.github.io/)
 1. ダウンロードしたマーカーのimgをアップロード
 
-3. 完成したらwebページで読み取る
+2. 完成したらwebページで読み取る
+
+
+## Reference
+- [https://note.com/penciljapan/n/nd60297348526](https://note.com/penciljapan/n/nd60297348526)
+- [https://qiita.com/dsudo/items/58718e9e3c870e6b92e6](https://qiita.com/dsudo/items/58718e9e3c870e6b92e6)
+- [https://qiita.com/tichise/items/c0f331a9eeb5fb8c3763](https://qiita.com/tichise/items/c0f331a9eeb5fb8c3763)
 
