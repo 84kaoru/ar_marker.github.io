@@ -1,5 +1,5 @@
 # ページ
-[https://84kaoru.github.io/ar_pazzle.github.io/](https://84kaoru.github.io/ar_marker.github.io/)
+[https://84kaoru.github.io/ar_marker.github.io/](https://84kaoru.github.io/ar_marker.github.io/)
 
 # 使い方
 
