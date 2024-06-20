@@ -18,8 +18,6 @@
 
 7. コード内の既存のpattファイルとgLTFファイルを差し替える
 
-8. index.html内の`XXX.patt`と`YYY.gltf`適切な名前に書き直す
-
 
 ## オリジナルマーカーと3Dモデルを使ってパズルを作ろう→[https://84kaoru.github.io/pazzle.github.io/](https://84kaoru.github.io/pazzle.github.io/)
 1. ダウンロードしたマーカーのimgをアップロード
