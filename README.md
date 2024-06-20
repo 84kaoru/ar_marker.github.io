@@ -24,13 +24,15 @@ https://84kaoru.github.io/ar_pazzle.github.io/
 ## 3Dモデルを変更したい場合(元モデルがFBX形式の場合)
 1. FBX2gLTFを使う→[FBX2glTF-darwin-x64をダウンロード](https://github.com/facebookincubator/FBX2glTF/releases)
 
-2. `$ FBX2glTF (fbxファイルまでのパス)`を実行→XXX_outというファイルができるのでそれをzipする
+2. `chmod +x FBX2glTF-darwin-x64`でFBX2glTF-darwin-x64を実行できるようにする(できない場合以下3の"FBX2gLTF"部分に実行ファイルまでのパスを記述)
 
-3. [AR.js Studio](https://ar-js-org.github.io/studio/pages/marker/index.html)に適当な画像(使用するマーカーの画像で良い)とzipしたXXX_outをアップロード
+3. `$ FBX2glTF "fbxファイルまでのパス"`を実行→XXX_outというファイルができるのでそれをzipする
 
-4. Download packageでファイルをダウンロード
+4. [AR.js Studio](https://ar-js-org.github.io/studio/pages/marker/index.html)に適当な画像(使用するマーカーの画像で良い)とzipしたXXX_outをアップロード
 
-5. ダウンロードしたファイルの中からgLTF形式のファイルをコード内の既存のgLTFファイルと差し替える
+5. Download packageでファイルをダウンロード
 
-6. index.html内の`XXX.gltf`を適切な名前に書き直す
+6. ダウンロードしたファイルの中からgLTF形式のファイルをコード内の既存のgLTFファイルと差し替える
+
+7. index.html内の`XXX.gltf`を適切な名前に書き直す
 
