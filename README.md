@@ -8,7 +8,7 @@ https://84kaoru.github.io/ar_pazzle.github.io/
 3.変換したgltfをbinファイルと共にzip→ar.js studioに適当な写真と共にアップロード
 新たなgltfファイルをゲット　それをフォルダに入れる
 
-##　使い方
+## 使い方
 
 # マーカーを変更したい場合
 1. [AR.js Marker Training](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)に画像をアップロード
