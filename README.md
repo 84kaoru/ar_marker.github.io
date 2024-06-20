@@ -3,17 +3,6 @@
 
 # 使い方
 
-## マーカーを変更する
-1. [AR.js Marker Training](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)に画像をアップロード
-※pattern ratio は変更可能だが、マーカーの読み取り精度に影響が出る(デフォルト0.5が妥当)
-
-3. マーカーのimgとmattファイルを保存
-
-4. コード内の既存のmattファイルと差し替える
-
-5. index.html内の`XXX.matt`を適切な名前に書き直す
-   
-
 ## 3Dモデルを変更する(元モデルがFBX形式の場合)
 1. FBX2gLTFを使う→[FBX2glTF-darwin-x64をダウンロード](https://github.com/facebookincubator/FBX2glTF/releases)
 
@@ -21,13 +10,15 @@
 
 3. `$ FBX2glTF "fbxファイルまでのパス"`を実行→XXX_outというファイルができるのでそれをzipする
 
-4. [AR.js Studio](https://ar-js-org.github.io/studio/pages/marker/index.html)に適当な画像(使用するマーカーの画像で良い)とzipしたXXX_outをアップロード
+4. [AR.js Studio](https://ar-js-org.github.io/studio/pages/marker/index.html)にマーカーにしたい画像とzipしたXXX_outをアップロード
 
-5. Download packageでファイルをダウンロード
+5. マーカーのimgとmattファイルを保存
 
-6. ダウンロードしたファイルの中からgLTF形式のファイルをコード内の既存のgLTFファイルと差し替える
+6. Download packageでファイルをダウンロード→arというzipができるので解凍
 
-7. index.html内の`XXX.gltf`を適切な名前に書き直す
+7. コード内の既存のmattファイルとgLTFファイルを差し替える
+
+8. index.html内の`XXX.matt`と`YYY.gltf`適切な名前に書き直す
 
 
 ## オリジナルマーカーと3Dモデルを使ってパズルを作ろう→[https://84kaoru.github.io/pazzle.github.io/](https://84kaoru.github.io/pazzle.github.io/)
