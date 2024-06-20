@@ -5,7 +5,7 @@
 
 ## マーカーを変更する
 1. [AR.js Marker Training](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)に画像をアップロード
-※pattern ratio は変更可能だが、マーカーの読み取り制度に影響が出る(デフォルト0.5が妥当)
+※pattern ratio は変更可能だが、マーカーの読み取り精度に影響が出る(デフォルト0.5が妥当)
 
 3. マーカーのimgとmattファイルを保存
 
