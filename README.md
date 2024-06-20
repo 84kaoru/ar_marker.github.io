@@ -31,7 +31,7 @@
 
 
 ### オリジナルマーカーと3Dモデルを使ってパズルを作ろう→[https://84kaoru.github.io/pazzle.github.io/](https://84kaoru.github.io/pazzle.github.io/)
-1. imgをアップロード
+1. ダウンロードしたマーカーのimgをアップロード
 
-2. 完成したらwebページで読み取る
+3. 完成したらwebページで読み取る
 
