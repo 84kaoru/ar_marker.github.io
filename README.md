@@ -1,4 +1,4 @@
-# ページ
+# テストページ
 [https://84kaoru.github.io/ar_marker.github.io/](https://84kaoru.github.io/ar_marker.github.io/)
 
 # 使い方
@@ -17,6 +17,13 @@
 6. Download packageでファイルをダウンロード→arというzipができるので解凍
 
 7. コード内の既存のpattファイルとgLTFファイルを差し替える
+
+8. `<a-entity ... scale="0.5 0.5 0.5" >`scaleを調節してオブジェクトの大きさを変更する
+
+## 音声を変更する
+1. コード内の既存のmp3ファイルを差し替える
+
+2. `<audio>`タグ内のファイル名を変更
 
 
 ## オリジナルマーカーと3Dモデルを使ってパズルを作ろう→[https://84kaoru.github.io/pazzle.github.io/](https://84kaoru.github.io/pazzle.github.io/)
